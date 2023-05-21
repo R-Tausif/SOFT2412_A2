@@ -1,0 +1,111 @@
+[
+    {
+        "date": "2022-10-10",
+        "method": "cash",
+        "change": 50,
+        "paid": 100,
+        "time": "20:58:19.031",
+        "user": "user",
+        "items": [
+            {
+                "amount": 1,
+                "code": "1001",
+                "name": "Mineral Water"
+            },
+            {
+                "amount": 1,
+                "code": "2003",
+                "name": "Bounty"
+            }
+        ],
+        "status": "success"
+    },
+    {
+        "date": "2022-10-10",
+        "reason": "user cancelled",
+        "user": "anonymous",
+        "status": "fails"
+    },
+    {
+        "date": "2022-10-10",
+        "method": "card",
+        "change": 0,
+        "paid": 50,
+        "time": "15:37:23.332",
+        "user": "user",
+        "items": [
+            {
+                "amount": 1,
+                "code": "1001",
+                "name": "Mineral Water"
+            },
+            {
+                "amount": 1,
+                "code": "2003",
+                "name": "Bounty"
+            }
+        ],
+        "status": "success"
+    },
+    {
+        "date": "2022-10-24",
+        "method": "cash",
+        "change": 2,
+        "paid": 26,
+        "time": "20:44:49.780",
+        "user": "anonymous",
+        "items": [
+            {
+                "amount": 5,
+                "code": "3002",
+                "name": "Pringles"
+            },
+            {
+                "amount": 3,
+                "code": "3001",
+                "name": "Smiths"
+            }
+        ],
+        "status": "success"
+    },
+    {
+        "date": "2022-10-24",
+        "method": "card",
+        "change": 0,
+        "paid": 13,
+        "time": "20:47:27.439",
+        "user": "amazingUser",
+        "items": [
+            {
+                "amount": 1,
+                "code": "1003",
+                "name": "Coca cola"
+            },
+            {
+                "amount": 2,
+                "code": "3001",
+                "name": "Smiths"
+            },
+            {
+                "amount": 3,
+                "code": "1001",
+                "name": "Mineral Water"
+            }
+        ],
+        "status": "success"
+    },
+    {
+        "date": "2022-10-24",
+        "method": "card",
+        "change": 0,
+        "paid": 2,
+        "time": "21:47:29.455095200",
+        "user": "user",
+        "items": [{
+            "amount": 1,
+            "code": "1001",
+            "name": "Mineral Water"
+        }],
+        "status": "success"
+    }
+]

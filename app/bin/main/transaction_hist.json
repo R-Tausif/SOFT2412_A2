@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-10-10",
+        "user": "user",
+        "status": "success",
+        "method": "cash",
+        "paid": 100,
+        "change": 50;
+        "items": [
+            {
+                "code": 1001,
+                "name": "Mineral Water",
+                "amount": 1
+            },
+            {
+                "code": 2003,
+                "name": "Bounty",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "date": "2022-10-10",
+        "user": "anonymous",
+        "status": "fails",
+        "reason": "user cancelled"
+    },
+    {
+        "date": "2022-10-10",
+        "user": "user",
+        "status": "success",
+        "method": "card",
+        "change": 50;
+        "items": [
+            {
+                "code": 1001,
+                "name": "Mineral Water",
+                "amount": 1
+            },
+            {
+                "code": 2003,
+                "name": "Bounty",
+                "amount": 1
+            }
+        ]
+    }
+]

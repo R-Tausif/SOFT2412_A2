@@ -1,0 +1,115 @@
+[
+    {
+        "code": 1001,
+        "name": "Mineral Water",
+        "category": "Drinks",
+        "price": 1.0,
+        "amount": 7
+    },
+    {
+        "code": 1002,
+        "name": "Sprite",
+        "category": "Drinks",
+        "price": 1.0,
+        "amount": 7
+    },
+    {
+        "code": 1003,
+        "name": "Coca cola",
+        "category": "Drinks",
+        "price": 1.0,
+        "amount": 7
+    },
+    {
+        "code": 1004,
+        "name": "Pepsi",
+        "category": "Drinks",
+        "price": 1.0,
+        "amount": 7
+    },
+    {
+        "code": 1005,
+        "name": "Juice",
+        "category": "Drinks",
+        "price": 1.0,
+        "amount": 7
+    },
+    {
+        "code": 2001,
+        "name": "Mars",
+        "category": "Chocolates",
+        "price": 2.0,
+        "amount": 7
+    },
+    {
+        "code": 2002,
+        "name": "M&M",
+        "category": "Chocolates",
+        "price": 2.0,
+        "amount": 7
+    },
+    {
+        "code": 2003,
+        "name": "Bounty",
+        "category": "Chocolates",
+        "price": 2.0,
+        "amount": 7
+    },
+    {
+        "code": 2004,
+        "name": "Snickers",
+        "category": "Chocolates",
+        "price": 2.0,
+        "amount": 7
+    },
+    {
+        "code": 3001,
+        "name": "Smiths",
+        "category": "Chips",
+        "price": 3.0,
+        "amount": 7
+    },
+    {
+        "code": 3002,
+        "name": "Pringles",
+        "category": "Chips",
+        "price": 3.0,
+        "amount": 7
+    },
+    {
+        "code": 3003,
+        "name": "Kettle",
+        "category": "Chips",
+        "price": 3.0,
+        "amount": 7
+    },
+    {
+        "code": 3004,
+        "name": "Thins",
+        "category": "Chips",
+        "price": 3.0,
+        "amount": 7
+    },
+    {
+        "code": 4001,
+        "name": "Mentos",
+        "category": "Candies",
+        "price": 1.0,
+        "amount": 7
+    },
+    {
+        "code": 4002,
+        "name": "Sour Patch",
+        "category": "Candies",
+        "price": 1.0,
+        "amount": 7
+    },
+    {
+        "code": 4003,
+        "name": "Skittles",
+        "category": "Candies",
+        "price": 1.0,
+        "amount": 7
+    }
+]
+    

@@ -1,0 +1,51 @@
+[
+    {
+        "name": "anonymous",
+        "history": 
+        [
+            "Mineral Water",
+            "Pepsi",
+            "Coca cola",
+            "Mars",
+            "Bounty"
+        ]
+    },
+    {
+        "name": "user", 
+        "password": "123", 
+        "role": "customer",
+        "card":
+            {
+                "name": "Charles",
+                "number": "40691"
+            },
+        "history": 
+        [
+            "Mineral Water",
+            "Pepsi",
+            "Coca cola", 
+            "Mars",
+            "Bounty"
+        ]
+    }, 
+    {
+        "name": "user2",
+        "password": "abc",
+        "role": "seller",
+        "card":
+            {
+                "name": "Vincent",
+                "number": "59141"
+            },
+        "history": 
+        [
+            "Mineral Water",
+            "Pepsi",
+            "Coca cola", 
+            "Mars",
+            "Bounty"
+        ]
+        
+    }
+]
+    
